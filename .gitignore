@@ -1,0 +1,8 @@
+import
+build
+devel
+logs
+__pycache__/
+*.pyc
+standalone_build/deps/
+standalone_build/obj/
